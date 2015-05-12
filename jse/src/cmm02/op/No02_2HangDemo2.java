@@ -1,4 +1,4 @@
-package comm02.op;
+package cmm02.op;
 
 public class No02_2HangDemo2 {
 	public static void main(String[] args) {

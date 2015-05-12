@@ -1,4 +1,4 @@
-package comm02.op;
+package cmm02.op;
 
 public class No01_ArithmeticDemo {
 	

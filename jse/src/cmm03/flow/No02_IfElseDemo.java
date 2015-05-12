@@ -1,4 +1,4 @@
-package comm03.flow;
+package cmm03.flow;
 
 import java.util.Scanner;
 
