@@ -11,6 +11,7 @@ public class No08_NumberMatch {
 		No08_NumberMatchVO vo = new No08_NumberMatchVO();
 		System.out.println("총 3회만 입력가능합니다.");
 		Scanner scanner = new Scanner(System.in);
+		
 		//BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		
 			
@@ -23,6 +24,7 @@ public class No08_NumberMatch {
 			try{
 				int input = scanner.nextInt();
 				vo.setPlayer(input);
+				
 				//String s = in.readLine(); // 어차피 readLine()이라 버퍼플러시 따위 필요없습니다.
 				//int input = Integer.parseInt(s);
 				//vo.setPlayer(input);
